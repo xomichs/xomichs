@@ -45,4 +45,4 @@
 ## Follow Me
 [ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/FcsDFOREVER)
 [ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) ](https://www.instagram.com/alekc_x/)
-[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ]([здесь ссылку на ваш Linkedin](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%85%D0%BE%D0%BC%D0%B8%D1%87-b98018249/)https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%85%D0%BE%D0%BC%D0%B8%D1%87-b98018249/)
+[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ]((https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%85%D0%BE%D0%BC%D0%B8%D1%87-b98018249/)https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%85%D0%BE%D0%BC%D0%B8%D1%87-b98018249/)
