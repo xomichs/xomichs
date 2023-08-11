@@ -15,8 +15,8 @@
   [FarmingFever](https://docs.google.com/spreadsheets/d/1VpjCYvOggxdWoCdROKlQvdbx86mYy-_0wCovaSCJOGA/edit?usp=sharing),  [Electric Trains](https://docs.google.com/spreadsheets/d/1cnS3CxiV9aM2ocAgCqGKmclGwdY_RhzVKUL3r-66fRI/edit?usp=sharing),  [Little Shooter](https://docs.google.com/spreadsheets/d/19iIxc8nCoGl4tOXlhQD6fss6Gfr0gcrVg2OfdasUBkk/edit?usp=sharing),  [Speechbox](https://docs.google.com/spreadsheets/d/1cbPGogGqZCURF3BnQnf0dAh4PD5dgs99tXlIu79YOac/edit?usp=sharing),  [Hyper Tear Demo](https://docs.google.com/spreadsheets/d/1ijtFICy9pdizI0_FruoJQgjQzK9aMH0QO2VsO035nXg/edit?usp=sharing),  [Texas Massacre](https://docs.google.com/spreadsheets/d/1XVG2U2Lkg6BbUJHAAgMN22St-pj64uoFsfkFybkKsc0/edit?usp=sharing),  [World race](https://docs.google.com/spreadsheets/d/1fT6-Y4pjVFcihxWvBb_30NaOyZVjSc5_2jmIhAV_Aq4/edit?usp=sharing)
 
 ### Test plans 
-- Applications: [Texas Massacre](),  [AgeOfMystery](),  [Chop chop](),
-  [Little Shooter](),  [World Race]()
+- Applications: [Texas Massacre](https://docs.google.com/document/d/1vIkYDNkpxifa_XvNQhBDdIRPJhWRHpN1rIuEQx43KuA/edit?usp=sharing),  [AgeOfMystery](https://docs.google.com/document/d/1gCqji46EGfHF2PGkoforAzO9xY3YHxawm8sJlW6SHgE/edit?usp=sharing),  [Chop chop](https://docs.google.com/document/d/1B6_of8f3WTAJky4MoSzWHxeEtK6mSQuqJo6cYcvjABA/edit?usp=sharing),
+  [Little Shooter](https://docs.google.com/document/d/1rJYRekKMwNYFZUcwAi8XhxXEMqajasu4vWZj6OOwE6Q/edit?usp=sharing),  [World Race](https://docs.google.com/document/d/12u9POmhfS-bJYKSCp7ieM-a3xjNM8TNwuX6uq895z0o/edit?usp=sharing), [ElectricTrains](https://docs.google.com/document/d/1u3S_y25SiidvfhXbLaHxmR1Mi32feqPw-6Q_Q8N5VJA/edit?usp=sharing),[HyperTear Demo](https://docs.google.com/document/d/1SP86-wYDZTdZJ010LuvbVTrqwcKEYgzhgJuu_zQ2SI8/edit?usp=sharing), [FarmingFever](https://docs.google.com/document/d/1skz1dhxIlRVAs89ScvT2b8fxW6yWgp0YAjOy6s3uxoU/edit?usp=sharing), [BaseDefence](https://docs.google.com/document/d/1Rs9VLxi2_dMV5AcPvr0jKbUDtY1FfrMShDYFyh6KVME/edit?usp=sharing), [Speechbox](https://docs.google.com/document/d/1HGFHmE2k1qCdd-K2934LG_tzkB43ejYxBAGoWYXhhJE/edit?usp=sharing)
 
 
 ## Languages and Tools
@@ -45,4 +45,4 @@
 ## Follow Me
 [ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/FcsDFOREVER)
 [ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) ](https://www.instagram.com/alekc_x/)
-[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ](здесь ссылку на ваш Linkedin)
+[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ]([здесь ссылку на ваш Linkedin](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%85%D0%BE%D0%BC%D0%B8%D1%87-b98018249/)https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%85%D0%BE%D0%BC%D0%B8%D1%87-b98018249/)
