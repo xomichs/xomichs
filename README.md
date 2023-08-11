@@ -7,8 +7,8 @@
 ## Portfolio 
 
 ### Bug reports 
-- PC application - [Texas Massacre](https://trello.com/invite/b/rLfyrhDe/ATTI02e5711a87868dd1ffff0af02c8b341b59A0FB7B/texas-massacre), [AgeOfMystery](), [Chop chop]()
-- Mobile application - [Little Shooter](), [World Race]()
+- PC application - [Texas Massacre](https://trello.com/invite/b/rLfyrhDe/ATTI02e5711a87868dd1ffff0af02c8b341b59A0FB7B/texas-massacre), [AgeOfMystery](https://trello.com/invite/b/vACo7vK9/ATTI024efd4ec3d2798e4e63b00b641b9e264068ABE6/age-of-mystery), [Chop chop](https://trello.com/invite/b/xyDLAFO1/ATTI3f7da8aabd7a8da44ff4221f3a4c3ee6FDCE2BAB/chopchop), [ElectricTrains] (https://trello.com/invite/b/CrVqZwvf/ATTI7233228669d7186baedc2767c050bb10B8809E8E/electrictrains), [HyperTear Demo](https://trello.com/invite/b/sKYpAWmG/ATTI741e130c931d632f67c4f5ba5054f2e12A967EC4/hypertear-demo)
+- Mobile application - [Little Shooter](https://trello.com/invite/b/kNos3Q1Y/ATTI6002c3eefdd7227a159fe38e9dfd73c9A778F40E/little-shooter), [World Race](https://trello.com/invite/b/ZzcmOue0/ATTIc4319b6ca13c07f809770c9d1c7220f64745689B/world-race), [BaseDefence](https://trello.com/invite/b/9rJ9RZsR/ATTIe7611eb26128ed0e781056c50e970f697C616CA2/basedefence), [FarmingFever](https://trello.com/invite/b/TL4c5Qtj/ATTI0b688bd098f39a39dcac1bca3cd6b18c53128C22/farmingfever), [Speechbox](https://trello.com/invite/b/IkUhu22F/ATTI7041378a0355588ee034d7b701780e8aDA4F530D/speechbox)
 
 ### Check-lists
 - Applications: [12](),  [BeastTraversing](),  [Demo](),
